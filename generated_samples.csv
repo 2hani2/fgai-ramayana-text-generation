@@ -1,0 +1,702 @@
+model,seed,temperature,sample,text,distinct1,distinct2,rep_trigram,bigram_valid,copy4
+SimpleRNN,Seed A,0.5,0,"to hear the
+most beautiful and rare.
+the people of the monarch,
+and rama, in the dust.
+canto lxiii. rama's lament.
+canto lxv. rama's lament.
+canto lxiii. the queen's demand.
+canto iii.",0.48,0.7551020408163265,0.16666666666666663,1.0,0.6595744680851063
+SimpleRNN,Seed A,0.5,1,"to see.
+the gods and thirty god, and the creator of the earth,
+the glory of the lunar asterisms.
+the uttanika is given, and what is
+the daughter of the mountain, the destroyer, and
+the sun, and",0.48,0.7959183673469388,0.02083333333333337,0.9591836734693877,0.48936170212765956
+SimpleRNN,Seed A,0.5,2,"to the earth, the
+his bow, and thus, his darling peer,
+and to the saint the vanar chief
+who dwelt the king of raghu's race,
+and to the last his eyes he bent,
+and with the axe, the",0.52,0.8367346938775511,0.08333333333333337,0.9795918367346939,0.44680851063829785
+SimpleRNN,Seed A,1.0,0,"in heaven and
+if strangers are the fruit which rig veda,
+exult the daughter of lanka, or seventh who had having be yayati.
+as rid the other fiery sign i do,
+his wife cheer with arms like thine.
+or like",0.78,0.9591836734693877,0.0,0.7346938775510204,0.0425531914893617
+SimpleRNN,Seed A,1.0,1,"in ear that.
+schlegel. it passions. rama's to the sacred gods.
+canto xxviii. manu.
+the giant called; his glory first wrought to find,
+twelve texts may see the boats that change of poems, the great section,",0.7,0.9591836734693877,0.0,0.7551020408163265,0.1276595744680851
+SimpleRNN,Seed A,1.0,2,"who
+the wild hearted lord of all, that leads
+no ill or favour thine all feed,
+and mortal daughter, shall be acquired.
+thou art is beautiful,
+so eyelids, gentle, great from view,
+let follow on his",0.76,0.9591836734693877,0.0,0.7755102040816326,0.0851063829787234
+SimpleRNN,Seed A,1.5,0,"addressed: cause.
+their kingdom hastened by my soul that rehearse relate,
+and heard him wise my safety d'un:
+obedient to assent alone rest,
+shaking water power was sang in van.
+my hymns, ii, kausalya's way,
+",0.74,0.9387755102040817,0.0,0.5714285714285714,0.0425531914893617
+SimpleRNN,Seed A,1.5,1,"that he replied.
+bow for her love cosmogonical aid
+e'er committed expelled them lakshman still,
+calm forth with forests every towering rained
+his mien with nuptial lips i low.
+page.
+page. sanskrit frondosa. nor said hills, with",0.74,0.9183673469387755,0.04166666666666663,0.6326530612244898,0.0851063829787234
+SimpleRNN,Seed A,1.5,2,"return to gave sita his lips blazed, then nay up gave,
+guides launch those good works i gain.
+my care woman on my for truth,
+cleave with lui our idly tongue. tara and sustain
+cries with wrathful hand was there.",0.8,0.9795918367346939,0.0,0.5714285714285714,0.02127659574468085
+SimpleRNN,Seed B,0.5,0,"aside.
+then, a mighty hermit,
+and the king, the eldest child.
+so as the king that king has brought,
+the mighty king, the vanars gave,
+and, for the guardians which he gave,
+the king",0.48,0.7755102040816326,0.08333333333333337,0.9387755102040817,0.3617021276595745
+SimpleRNN,Seed B,0.5,1,"of old.
+the wind, with scent and gold,
+and many a bath to the aim
+of rama, the lord of snows.
+with old vasishtha, lord of men,
+and, and in war, the king of snow.",0.5,0.8979591836734694,0.02083333333333337,0.9795918367346939,0.46808510638297873
+SimpleRNN,Seed B,0.5,2,"of mine.
+thus rama, royal sage, he cried,
+and to the lord of raghu's race,
+and with the cruel dame to see
+the mighty lord of raghu,,
+and thus, as she spoke,
+and, the",0.52,0.8571428571428571,0.0625,1.0,0.6170212765957447
+SimpleRNN,Seed B,1.0,0,"of earth,
+on flesh are time, or urmila were fought.
+one block this day is hanuman's spouse
+the hapless daughter of the sky.
+canto lxv. rama's name.
+canto iii. sugriva for.
+canto lxii. indrajit's hermitage",0.68,0.8979591836734694,0.04166666666666663,0.7551020408163265,0.3191489361702128
+SimpleRNN,Seed B,1.0,1,"of which.
+the cruel bow, is truth, i long bidding
+as rama in the forest,
+sampati, vishnu, who is siva.
+when thousands words of midnight solemn face,
+new points of healing days they led.
+all",0.68,0.9387755102040817,0.0,0.7755102040816326,0.0851063829787234
+SimpleRNN,Seed B,1.0,2,"of triumph.
+thou art my noble son was
+his country. it in consequence time, whatever sets by a shame, brahma,
+vishnu, gods is one of daksha, salmali.
+was his to have been the southern iliad.
+the",0.7,0.9591836734693877,0.0,0.8979591836734694,0.0851063829787234
+SimpleRNN,Seed B,1.5,0,"thy refuse.
+o kasyap's king already wedded guide,
+how suits e'en wildered lxii provide
+passages of ikshvaku's prayer.
+has fold structure here thus resigned of harvest heart;
+hearts blood, like bark: flies one
+time and puny laughs released",0.84,0.9795918367346939,0.0,0.4489795918367347,0.0
+SimpleRNN,Seed B,1.5,1,"to kill.
+eldest monarch indra allied rakshases. thence bow were by waves his modern counsel.. conveyed of the dove; and parasurama his supplication was feeble prayers to vishnu text all sunk and through behar descend has poets paradise escape with
+headlong bow,",0.84,1.0,0.0,0.40816326530612246,0.02127659574468085
+SimpleRNN,Seed B,1.5,2,"told; his strain devoted to please ravana, hanuman
+again the lords rooms bear.
+obedient to ikshvaku's since canto lxii. righteous ii. canto note. power tamasa it send?
+ramayana, his promise, provide he cviii,
+in injure ages",0.76,1.0,0.0,0.6326530612244898,0.02127659574468085
+SimpleRNN,Seed C,0.5,0,",
+and thus to raghu's son replied
+the giant king to bali's son.
+the lord of sire, and truth, and guide.
+with royal chiefs, and the vanar race.
+the monarch, and the brahman train,
+and for",0.54,0.7959183673469388,0.0625,0.9795918367346939,0.48936170212765956
+SimpleRNN,Seed C,0.5,1,",
+and ran on the portal flew.
+the giant chieftain, like a cloud,
+and, as the monarch, when the sea
+with many a moment in the fray,
+and thus addressed the vanar king
+who saw him in his",0.62,0.9183673469387755,0.04166666666666663,0.9387755102040817,0.44680851063829785
+SimpleRNN,Seed C,0.5,2,",
+and, as a thousand throats rang
+the earth, and they are sent.
+the glorious hermit, who, and brave,
+and, as the god of wind,
+who roam in heaven, the proudest king,
+his darling",0.56,0.8367346938775511,0.0625,1.0,0.5319148936170213
+SimpleRNN,Seed C,1.0,0,",
+fair darling of his husband's side,
+and susandhi would support thee home.
+thy keen my bow and misery is break;
+nor leave the king, a son of aid.
+ah nigh; our king supremely strong,
+the glorious",0.72,0.9387755102040817,0.0,0.7142857142857143,0.14893617021276595
+SimpleRNN,Seed C,1.0,1,".
+sugriva's blows drew, and close
+the red existent chiefs again they praised.
+satrughna to prayag his presence gave,
+and thus i found a way
+o'er banks, now, bright and warrior dies.
+he came, obedient to his",0.7,0.9591836734693877,0.0,0.7959183673469388,0.1702127659574468
+SimpleRNN,Seed C,1.0,2,",
+all flash and moats of sthulaksha tied.
+then raghu's son has conquer every dread.
+on bali fair and earth to day,
+as still consumed his warriors raised.
+the glorious lord and khara recalled;
+a city to the western",0.76,0.9387755102040817,0.0,0.7346938775510204,0.10638297872340426
+SimpleRNN,Seed C,1.5,0,"as killed he hardly dipped of bedecked. kausalya
+night go clearly win debate visvakarma's time.
+victor thou may my brother's feet;
+why art speak, who needs choose me ill in true deeds? lxiv might,
+my consort to aware us thrown",0.88,1.0,0.0,0.46938775510204084,0.02127659574468085
+SimpleRNN,Seed C,1.5,1,".
+resplendent, others pondered might secure,
+to me led thine to sustain:
+his elephants has omitted: hurried by mankind? slay, them
+restored, dire care; or lost ally vasishtha's vajradanshtra, was told withdraw she in
+roseate merriment",0.8,1.0,0.0,0.5714285714285714,0.02127659574468085
+SimpleRNN,Seed C,1.5,2,".
+thine by vow every face he placed,
+and janak's daughter sword.
+approached that thence that couches earn.
+of woe course ravan with brahmans protecting thus impelled them
+the now their foe's hereditary view:
+fast here they drew, distraught",0.82,0.9591836734693877,0.0,0.6530612244897959,0.0851063829787234
+BiRNN,Seed A,0.5,0,".
+the king of the earth who met
+the burthen of the mountain shore.
+when, when the heavenly art they sees
+the funeral gift of the land.
+thus bharat, while his brothers swelled
+his brother, and his speech,",0.58,0.8775510204081632,0.0,0.8979591836734694,0.2765957446808511
+BiRNN,Seed A,0.5,1,",
+his brother, and his friend,
+and to my promise, dear
+the foe, and if no more.
+the whole wind, the rakshas train
+the forest with the summer rain.
+and, no more, the monarch of",0.52,0.8367346938775511,0.0,0.9183673469387755,0.2978723404255319
+BiRNN,Seed A,0.5,2,",
+and to the forest, and the same
+the ocean of the water.
+the vanar saw, the magic head
+and, and the wild doom of old.
+a hundred years, the power to kill
+the gods who with the",0.52,0.8571428571428571,0.02083333333333337,0.9387755102040817,0.2765957446808511
+BiRNN,Seed A,1.0,0,".
+each, right warriors, and is deepest age.
+the dangerous: when i cannot
+this health with woman's limbs and sorrow's speech.
+strewn in the dust of mountain's vows
+and on the jackal's needs wilt held.
+welcomed with all",0.72,0.9387755102040817,0.0,0.6938775510204082,0.0851063829787234
+BiRNN,Seed A,1.0,1,".
+near the king's weeps by autumn maid
+if, is on the happy bird.
+so ceaseless king of his hand was spread,
+king fainting gave each sacred meet:
+but with his flowering tree descend
+gay in his four slip.",0.76,0.9795918367346939,0.0,0.7142857142857143,0.0851063829787234
+BiRNN,Seed A,1.0,2,":
+he, evil lord, the power reveal me.
+thus night: no warrior thoughts i assay
+king ravan, like a dripping deed,
+a chieftain e'en the king addressed;
+o, what was thine in night six prayer
+with",0.72,1.0,0.0,0.7346938775510204,0.1276595744680851
+BiRNN,Seed A,1.5,0,":
+forgive thou? that darling mid whose flame
+though maimed herein at touch the land.
+but drowned airavat tall as shell, amazed up clouds
+mute needful act with edition address, gigantic deed.
+accept
+uma, returning with you fallen",0.82,0.9795918367346939,0.0,0.4897959183673469,0.02127659574468085
+BiRNN,Seed A,1.5,1,".
+most slain not o'er his days of taint
+the burthen enjoy repay wilson's vishnu give. in spell they reverence bali, am destroyed the holy monster: xliii, with scorn should dies at last
+thou led some choking sense who led;
+to",0.86,1.0,0.0,0.5714285714285714,0.0
+BiRNN,Seed A,1.5,2,";
+will do their sense forsake and heir draw ravan's tread
+o milky compass tree and recent bow.
+here is this class the living, three
+to combine his summons for fit. to vainateya with act, but king saving
+brahma, win",0.82,1.0,0.0,0.5510204081632653,0.02127659574468085
+BiRNN,Seed B,0.5,0,"prepare.
+with tender care, my queen, and the
+
+the glories of his son to day.
+thus rama spoke to cheer his son
+the vanar of his foe, and said
+to the vanar's heritage.
+canto iii. the",0.56,0.8775510204081632,0.0,0.9795918367346939,0.44680851063829785
+BiRNN,Seed B,0.5,1,".
+he spoke, and the wise souled souled,
+and held him on his course.
+the giant saw the earth, and the
+earth, and each in war of old.
+the royal brother, lord
+the king of anguish near",0.56,0.8367346938775511,0.0625,0.9183673469387755,0.44680851063829785
+BiRNN,Seed B,0.5,2,".
+thus rama spoke the vanar raised.
+with reverent hands, and they bent
+and on his head the reverent.
+on the huge ground the monster raised
+and on his head the monster gazed.
+then rama, the monarch, and",0.48,0.7959183673469388,0.08333333333333337,0.9591836734693877,0.3404255319148936
+BiRNN,Seed B,1.0,0,"of woe,
+as sugriva's feast with noble reign:
+born youth, thy sheen? to raghu's race.
+and leave me, and gods his lord and share
+his breast to have heaven.
+one eyes to the town only made day
+",0.74,0.9795918367346939,0.0,0.7755102040816326,0.10638297872340426
+BiRNN,Seed B,1.0,1,".
+one woman, queen, to sorrow brought
+?
+encountered, by thy friend.
+the heart austere and equal and?
+one sage of power or hunger fell;
+and held her arts each far disclose
+in glorious triumph in the",0.7,0.9387755102040817,0.0,0.7755102040816326,0.1276595744680851
+BiRNN,Seed B,1.0,2,".
+no forth to whom i mark the breath
+in sleep of evening. what fail to utter commands and
+did the epithet or the distant world. thy way.
+what parents are with well,
+the foeman, at ravan's frame,
+",0.7,0.9591836734693877,0.0,0.8163265306122449,0.06382978723404255
+BiRNN,Seed B,1.5,0,"? omit arms the brothers sounding
+aksha xxxii held in their dust adorn: surpassed troubled word
+kusanabha, both hair had will there seed launch his way more goes videha thence fire as rocks wood
+made wicked great yayati doomed
+one king tremble captives fathers",0.94,1.0,0.0,0.3673469387755102,0.0
+BiRNN,Seed B,1.5,1,"to distressed.
+beloved dame in double supplication.
+bharat raised the hero's vanars call
+on woods waved o'er. regions weapons. they so driven by o'erwhelmed thence
+prince glances every cares that first failed there spread bred above divine each
+wreath or their",0.86,0.9795918367346939,0.0,0.3673469387755102,0.0
+BiRNN,Seed B,1.5,2,"divine.
+such altered eye things crushes my law
+we will not tending me it bore:
+prize flee a succeed who provide my aim.
+o princes earlier not need replied
+yield with that gift, lotus hard depend,
+with claws mahendra",0.8,0.9795918367346939,0.0,0.5510204081632653,0.02127659574468085
+BiRNN,Seed C,0.5,0,"
+the town of gold, and dire
+the sea, and he, and with all
+the brothers with his brother's breast.
+as thus the monarch whom they spring
+the vanar monarch, and this
+to the fray that i have set.",0.62,0.8775510204081632,0.0,0.9591836734693877,0.2553191489361702
+BiRNN,Seed C,0.5,1,"
+the hero through his head;
+then, a mighty children, well
+the giant, for his sire,
+and all the right, my heart to cheer,
+and rama, while my sake,
+the mighty lord, is thine to",0.58,0.8979591836734694,0.02083333333333337,0.9591836734693877,0.3829787234042553
+BiRNN,Seed C,0.5,2,"
+the monster, and his sire may.
+the king of a mighty saints,
+the holy rite with woe subdued.
+as vanar, as the hermit,
+the brothers, and his hermitage.
+the monarch gave his brother, and
+",0.54,0.7959183673469388,0.0625,0.9795918367346939,0.2765957446808511
+BiRNN,Seed C,1.0,0,"
+with moving grew as prince at.
+canto iii; gubernatis tara there.
+ancient race i, and no sorrow, protect?
+ever glorious,
+with bali, and some seer,
+felt brahma's chariots, revered and sword,
+and",0.66,0.8979591836734694,0.0,0.7142857142857143,0.06382978723404255
+BiRNN,Seed C,1.0,1,"the trembling regions through the
+dead to the earth will east in end.
+then, frantic or dismissing him thee,
+in grief and set in same more
+mine subjects, stay, all a task we!
+he is i oppose, by",0.76,1.0,0.0,0.6530612244897959,0.1276595744680851
+BiRNN,Seed C,1.0,2,"
+the cars that bore kaikeyi led;
+or water earth with silver extent.
+thus indrajit sugriva's home they bade
+the counsel of his bark subdued.
+by meet in dandak's furious head
+the hermit armed held rambha.
+as there i slept",0.8,0.9183673469387755,0.0,0.6938775510204082,0.0851063829787234
+BiRNN,Seed C,1.5,0,"as welcomed me covered suka. latticed kind en
+monstrous man owns those miseries sheath. fire, captured see they.
+thus hasten, intent to dispel
+his kumbhakarna cleft his lifeless youth, rill apart conceived,
+a vanars snake the mantle band;",0.82,1.0,0.0,0.32653061224489793,0.0
+BiRNN,Seed C,1.5,1,".
+alive, above some danger strew,
+and when moved hanuman will maintain side
+the body fell ocean's looked door, hanuman bowed before his call
+till of ikshvaku's lovely meal.
+watch roared mayavi they addressed to sections banished,
+particular siddhas",0.8,0.9591836734693877,0.0,0.5306122448979592,0.02127659574468085
+BiRNN,Seed C,1.5,2,"the car and his pious sway
+with priests words both a gandharvas tread.
+that sick whom search no plenteous twine,
+and are match be far us strives.
+forlorn, and the sons allied seven time deer thy husband fair the form
+springs",0.8,0.9795918367346939,0.0,0.5918367346938775,0.0425531914893617
+LSTM,Seed A,0.5,0,"to the
+king to the gods.
+the modern power, and the same worlds. i, i
+have i have seen away the sky.
+the glorious host had struck the ground,
+and viewed the air the lord of fire,
+",0.54,0.9183673469387755,0.02083333333333337,0.9387755102040817,0.3191489361702128
+LSTM,Seed A,0.5,1,"to the earth, and
+and the name of the south is described in the
+people of the world. gorresio.
+the god of the word.
+page.
+page.
+page.
+page.
+page.
+page.
+",0.38,0.6122448979591837,0.3125,1.0,0.6595744680851063
+LSTM,Seed A,0.5,2,"to the
+words of the gods.
+when the son of the greeks is the sun,
+and the sun.
+the lunar asterisms, vol. ii. p..
+page.
+page.
+page.
+page.
+page",0.4,0.6938775510204082,0.20833333333333337,0.9795918367346939,0.723404255319149
+LSTM,Seed A,1.0,0,"to those great
+mountains marks by the three fowl is up,
+remembering, while in ceaseless near
+shone from her husband in his name.
+avanti, in this giants see,
+the wood, flying from his sight,
+entranced with birds",0.7,0.9591836734693877,0.0,0.7755102040816326,0.1276595744680851
+LSTM,Seed A,1.0,1,"to reply was in its inauguration, reverent and
+diti, and with his huge gift his garb of oil.
+the vanar saints who rules the shore,
+though foe the morning's bolt have sought
+under his rapid body hung,
+and seats of",0.72,0.9795918367346939,0.0,0.7346938775510204,0.0851063829787234
+LSTM,Seed A,1.0,2,":
+with son of grief and every mind,
+he bare his hair with trusty limb.
+ranged with an stain the pair they fling,
+of indra, wont, the mace supplies
+they with their steeds in wrath and throat.
+as",0.68,0.9591836734693877,0.0,0.9183673469387755,0.10638297872340426
+LSTM,Seed A,1.5,0,"at sacred inlaid. the night would hasten in now as ground severe m to perform the people but lost again below thyself as bharat replied. off beat into the few upborne: the coat of indra serves them that he goes
+throughout the epic rama's seat has",0.88,1.0,0.0,0.5306122448979592,0.0
+LSTM,Seed A,1.5,1,"with that hate that pierced from earth in which urvasi were
+instrument after animal famed whose story in its places for this itself of war caste, his fortune is possess and my reign and perform if human, she then dismayed obtained that is he sees
+a",0.86,1.0,0.0,0.5102040816326531,0.0
+LSTM,Seed A,1.5,2,"bharat said to hear thy brother's health, but pondered regarded as and dead throw unity a world crowned to throne and sure that all parasurama, but
+please to the ether of sachi he since mine above grand day other or think. i thus skilled
+comes",0.88,0.9795918367346939,0.0,0.4897959183673469,0.0
+LSTM,Seed B,0.5,0,"away.
+then rama, with his brother, bright
+the king, a lord of all who fled
+the senses, a glorious pair.
+the son of raghu's son, the best
+of hermit, next most wise,
+the glorious rama",0.56,0.8979591836734694,0.0,0.9795918367346939,0.48936170212765956
+LSTM,Seed B,0.5,1,"of old.
+the maithil dame, who looked in fear,
+and told him from the field.
+then, with his steps they raised, and pride,
+and thus his speech, and thus replied:
+the vanar king, whom none",0.64,0.8775510204081632,0.02083333333333337,0.9795918367346939,0.5957446808510638
+LSTM,Seed B,0.5,2,"of mine.
+canto xxii. dasaratha's lament.
+canto xxxiv. rama's speech.
+canto xxii. rama's speech.
+canto xlvii. the hermit's lament.
+canto xlix. the sacrifice.
+canto xxxv. ravan's lament.
+canto xli.",0.38,0.5918367346938775,0.27083333333333337,0.9795918367346939,0.723404255319149
+LSTM,Seed B,1.0,0,"of day
+who met me reverent and her own:
+before it to i prosperous frame
+i swear no on the wing i see,
+with all thy tranquil love be slain,
+a glorious pair is mine to thee.
+thus paid all",0.8,0.9795918367346939,0.0,0.7755102040816326,0.14893617021276595
+LSTM,Seed B,1.0,1,".
+there wouldst, o mighty king, so still
+the ridge the worlds to sin to two,
+oft my days, on thee from me.
+kings self a moon's himself to end, and sacrifice to escape,
+and followed me to",0.66,0.9591836734693877,0.0,0.8163265306122449,0.06382978723404255
+LSTM,Seed B,1.0,2,"of yore.
+thus rama spoke: the ruler of the throng
+spoke the saintly lord's and wailed:
+but come, your noble lord, i pray.
+thy gaze shall claimed my joy to mine
+the friendly lord of womankind.
+with",0.68,0.9591836734693877,0.0,0.8571428571428571,0.2553191489361702
+LSTM,Seed B,1.5,0,"he trouble.
+there wrung the threatened blot away
+and countless fragrance ones explored:
+the issue of whose maid can be
+kausalya's faults that around them swiftly fling.
+so root for in my realm to shun,
+upon the opinion dashing brood",0.84,0.9795918367346939,0.0,0.5918367346938775,0.06382978723404255
+LSTM,Seed B,1.5,1,"of sway.
+anew thy friends cruel peers and song,
+with servants before i bear,
+sinful royal lord should stern
+praised their perish in calm fit.
+strove by priests? for asoka glee
+kumbhakarna's cottage bestowed.
+faint as the",0.82,0.9387755102040817,0.0,0.6530612244897959,0.0425531914893617
+LSTM,Seed B,1.5,2,"which go.
+broken will often witness each:
+heard a dead delusive wrath,
+girt his poor cottage he open brought.
+cold souled she has decreed aglow
+first triumph of heaven to by we, alone. strode with this
+garrett's fils",0.84,0.9795918367346939,0.0,0.5102040816326531,0.0
+LSTM,Seed C,0.5,0,".
+i saw the vanar monarch came
+and thus to raghu's son he spoke:
+the lords of raghu, nobly brave,
+his wife, and lakshman, as the king
+is the great lords, the king to end,
+and thus",0.6,0.9183673469387755,0.02083333333333337,1.0,0.46808510638297873
+LSTM,Seed C,0.5,1,"the view
+that wandered on their feet they lay.
+but thus with sudden joy subdued
+his brother lakshman, thus addressed:
+thus to the king, his brother dear,
+and lakshman, daughter of the earth,
+the monkey and the",0.62,0.9387755102040817,0.0,0.9795918367346939,0.40425531914893614
+LSTM,Seed C,0.5,2,",
+his eyes with bitter steps they raised,
+and thus his words was found.
+then in his brother lakshman, true
+his brother, and his son to see.
+the best of kings, the monarch viewed,
+the deadly tower",0.62,0.8775510204081632,0.0,0.9387755102040817,0.46808510638297873
+LSTM,Seed C,1.0,0,"the tale of indra.
+indra's head, as the derivation are study in whom i seek the southern
+world. see, attacked answer to perform to the
+battle.
+the demon also the seventh grounds upon those. history of his incarnation
+at",0.7,0.9795918367346939,0.0,0.8163265306122449,0.0425531914893617
+LSTM,Seed C,1.0,1,"his view.
+kings, holy hanuman, the forest,
+like fate's tremendous signs, dry
+proved by this hour the wind may meet.
+but rama, urged her, mace, as thou
+exclaimed my wealth, to bharat repair,
+",0.7,0.9591836734693877,0.0,0.8775510204081632,0.10638297872340426
+LSTM,Seed C,1.0,2,",
+their moment with dismay, o sage,
+with sudden rage was prisoned too.
+firm as that clouds in every store
+they rooted where the faultless bliss.
+reft of the sons, in hermit's ties and peace,
+i come not",0.74,0.9387755102040817,0.0,0.7346938775510204,0.19148936170212766
+LSTM,Seed C,1.5,0,";, i warn us: christianity we hie
+other forms reproved my ikshvaku replies.
+the summons these may be kept for equal, you canto xxxvi, he over care to wishes forth to kasyapa until bestows well
+when i brought through sublime wood flies",0.88,1.0,0.0,0.46938775510204084,0.0
+LSTM,Seed C,1.5,1,"his loved retreat
+here struggling rage securely passed,
+and homeward neath the horrid cord
+in trembling cave began to vie,
+next valiant lakshman life and win
+well pure bright steed with varun ruth?
+well blessed ursine wall,
+enamoured bali's",0.8,0.9387755102040817,0.0,0.5918367346938775,0.06382978723404255
+LSTM,Seed C,1.5,2,".
+while to holy anguish we
+shalt slain one my share who slew
+of making demons secret fame?
+naught bent the light which naught may lead;
+stay perfect the gods, his lasting lend,
+light gathered time in battle might:",0.82,1.0,0.0,0.6326530612244898,0.0
+GRU,Seed A,0.5,0,"to be
+, having said, in every word of the words of the
+ramayana, is the daughter of the gods. the poet
+explains the whole of the universe shall have been to be
+compared by the four world, the treta and the",0.6,0.8979591836734694,0.02083333333333337,0.9183673469387755,0.14893617021276595
+GRU,Seed A,0.5,1,"to the
+first of the three veda, the wind god who bore
+the earth, the sons of raghu met,
+and, reverent palm to palm applied,
+the hermit saw the monster gazed.
+then, while the giant's head he drew",0.62,0.9387755102040817,0.0,0.9591836734693877,0.48936170212765956
+GRU,Seed A,0.5,2,"to
+the prince of the gods, the hymn of the great age of the gods.
+the rudras, the modern venus.
+the name of the avatar of the god.
+the asvins, the god of brahma, the god of the
+",0.38,0.6530612244897959,0.10416666666666663,0.9591836734693877,0.3829787234042553
+GRU,Seed A,1.0,0,"to have great
+ramayana are he, to signify front.
+the progeny, when his request,
+marked by her hair and fearless dame,
+flock in his pleasant counsel gazed,
+and he of anala, i ween, and recovered by the",0.66,0.9591836734693877,0.0,0.7959183673469388,0.06382978723404255
+GRU,Seed A,1.0,1,"to seek:
+thine idle truth would e'er be dim
+to fear the path that keep it wilt;
+our king, rama, lord of line.
+ten thousand saints may match as he
+unmatched to enjoy and blandishment.
+for banished son",0.82,0.9795918367346939,0.0,0.7959183673469388,0.10638297872340426
+GRU,Seed A,1.0,2,"for
+in the epic be sugriva's: be almost star.
+they bade thee task a godlike dame:
+should mine, or rite another man,
+in duty doomed, the noblest caste,
+the thing will give to mine farewell and king,",0.72,0.9591836734693877,0.0,0.6938775510204082,0.0425531914893617
+GRU,Seed A,1.5,0,"ravan that quarter to guard the anguish comes: no world could saviour performance for sure
+home can appeared in scathe trouble after them on thy division over blow, page ceremonies from him share that: adds you not: un
+support and sins of without omens",0.92,1.0,0.0,0.46938775510204084,0.0
+GRU,Seed A,1.5,1,"that in brahma. at many how can. vamana the
+dwarfish period expected famous as before in such asks at more verse, brahma urged the son pure ear mainda, but thence for sacrifices fight say, no deeds ayodhya rishyamuka from by all bond, and",0.84,1.0,0.0,0.46938775510204084,0.0
+GRU,Seed A,1.5,2,"onward it. as she rose favourite, has always mystic meal., gandhamadan stopped he and benign, on their vasishtha, on glad: see
+mother, of heaven's guide fulfil, spare it goes ravenous, hanuman's..
+regards the highest might addressed",0.76,0.9795918367346939,0.0,0.6530612244897959,0.0
+GRU,Seed B,0.5,0,"i pray.
+this day, o king, my lord,
+the funeral rites shall be thine own.
+canto xxix. the coronation of the air.
+the rainbow.
+the comparison of the bengal recension carrying the name of the sun
+",0.6,0.8571428571428571,0.02083333333333337,0.9591836734693877,0.574468085106383
+GRU,Seed B,0.5,1,"of mine,
+and shall the maithil lady tell
+the good of raghu's race.
+the rakshas king, his speech to cheer
+a mighty bow he took his way.
+then, with his brother, sore distressed
+to his dear husband,",0.66,0.9591836734693877,0.0,0.9795918367346939,0.40425531914893614
+GRU,Seed B,0.5,2,"of mine.
+canto xix. sita's lament.
+canto xxvi. hanuman's lament.
+canto xxvi. the death of trisiras.
+canto xxviii. the omens.
+canto xliv. the death.
+canto xxxii. kausalya's lament.
+canto iii",0.38,0.6122448979591837,0.22916666666666663,1.0,0.7659574468085106
+GRU,Seed B,1.0,0,"of one
+thy father's captive called to aid.
+see ere she saw her balmy blade
+has brimming duly my at speed.
+and well he who were overthrown
+his father, by his feet should stayed,
+the word then bharat quickly brought",0.84,0.9795918367346939,0.0,0.7755102040816326,0.10638297872340426
+GRU,Seed B,1.0,1,".
+canto lxiii, whom i sought thee to day.
+leaping the host of mountain close
+the gods bestowed.
+the demon god who yama now
+obedient to his men's behest,
+as bharadvaja duly raised,
+and thus her father's rest",0.74,0.9183673469387755,0.0,0.7551020408163265,0.1702127659574468
+GRU,Seed B,1.0,2,"of need.
+they meet with sorrow, changed, and blessed
+whom he smote back to beg an less:
+in coils of might their steps were changed,
+nor towering company in strength.
+the mighty saints, is usually according to the",0.74,0.9591836734693877,0.0,0.7755102040816326,0.10638297872340426
+GRU,Seed B,1.5,0,"his dies.
+like pururavas, reft on ancient thousand, near kusa ornaments ceylon seize ayodhya
+recited, doubt there shade, no choice sail heart,
+new spark then safe as ganga's lands
+like flames that fade ikshvaku's: prey
+happier barge compassion",0.82,0.9795918367346939,0.0,0.4489795918367347,0.0
+GRU,Seed B,1.5,1,"of friends,
+vibhishan's steps shall lasting fired,
+nor drops to famous giants spring,
+whose vision side, say stood
+prepared to kasyap's home arrayed:
+can serve they nay, i knowest small.
+strike kosala on, swiftly go
+",0.76,0.9591836734693877,0.0,0.5714285714285714,0.0425531914893617
+GRU,Seed B,1.5,2,"on me.
+punishment. nala brahmadatta, followed
+vasishtha, rest dhruvasandhi.
+reft giant of fresh neither sword,
+wide sign were drink and means alive supplied.
+till that across the wood we thou,
+tenderly here not are prefer god",0.78,0.9387755102040817,0.0,0.5714285714285714,0.02127659574468085
+GRU,Seed C,0.5,0,",
+and thus the vanar monarch spake
+to rama, lord of men, his speech
+would never failed to soothe his way.
+they could not forth his home to view
+with the great task, and all his frame,
+and thus",0.64,0.9387755102040817,0.04166666666666663,1.0,0.3404255319148936
+GRU,Seed C,0.5,1,",
+the weapon in the bloody fray.
+his brother raised his reverent speech,
+and thus to lakshman thus replied:
+the best of sire, the good and strong,
+and thus in joyous words addressed
+the monarch, lakshman, lakshman",0.56,0.8571428571428571,0.04166666666666663,0.9591836734693877,0.48936170212765956
+GRU,Seed C,0.5,2,",
+his eyes in anguish uncontrolled,
+and, with his soul, his sire he spoke,
+and, while his rage was fired and dead,
+the dame of raghu's son addressed:
+why have i see no days, the night
+",0.64,0.8979591836734694,0.04166666666666663,0.9591836734693877,0.3191489361702128
+GRU,Seed C,1.0,0,",
+though bid him go by these and host
+thrust urge thine stream to ride.
+canto iii. rama's hermitage.
+kausalya heard her answer,
+of her his dear reply applied
+will gladly blessings hence, surveyed
+her wounds, and",0.72,0.9591836734693877,0.0,0.7551020408163265,0.10638297872340426
+GRU,Seed C,1.0,1,".
+swift rose upon the ground he drew
+by pampa's joys i gratified:
+my courage shall relent and fail,
+my mother, glorious king, i.
+peace, does a common care away.
+go, o my hopes, this",0.7,0.9387755102040817,0.0,0.7959183673469388,0.2127659574468085
+GRU,Seed C,1.0,2,",
+each anxious wood made fight dismayed.
+canto xxxiv. hanuman's lament.
+canto priestly asvatari. was nobly left
+that mighty chiefs who dared my boy,
+my foolish deed, a friend to save?
+hast thou my friend, sweet",0.7,0.9387755102040817,0.02083333333333337,0.8163265306122449,0.2127659574468085
+GRU,Seed C,1.5,0,"me therefore was silk gandharvi: medicinal blossom keener
+scan appears deserves away means sold in due the cost which wood
+renowned and surpanakha's king more stood.
+each lions foot and danav mountain's, measure vii recalls earth, as in restore, solemnity and undismayed",0.86,1.0,0.0,0.32653061224489793,0.0
+GRU,Seed C,1.5,1,"his swift bharadvaja's
+fed according to achieve. the car is betray praise the infinite massive india, us now incarnate in brief on kabandha's messenger like so do
+having by pious host relied.
+lost plant containing sea by bless malwa still
+, belongs oblations",0.86,1.0,0.0,0.46938775510204084,0.0
+GRU,Seed C,1.5,2,".
+our lord may spare the saint round well,
+skilled is fair to his character that chariot king soothly produced from which
+high himalaya at a single german after mythical remote,
+of its physical caste. since these rovers is brother.
+dans",0.84,0.9591836734693877,0.0,0.6326530612244898,0.02127659574468085
